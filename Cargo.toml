@@ -1,0 +1,4 @@
+[package]
+name = "permutor"
+version = "0.1.0"
+authors = ["Brian Putnam <brian@brian-putnam.com>"]
