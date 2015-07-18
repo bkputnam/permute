@@ -1,4 +1,4 @@
 [package]
-name = "permutor"
+name = "permute"
 version = "0.1.0"
 authors = ["Brian Putnam <brian@brian-putnam.com>"]
